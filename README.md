@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atilayeseN
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Java/Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me atilayesen@hotmail.com
 
